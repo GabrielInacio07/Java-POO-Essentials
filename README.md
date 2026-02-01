@@ -18,9 +18,9 @@ Os principais temas explorados neste módulo incluem:
 ### 🧠 Conceitos-chave de POO  
 - **Instanciação de objetos**  
 - Manipulação de atributos e métodos  
-- Aplicação de lógica de negócio através de objetos :contentReference[oaicite:2]{index=2}
+- Aplicação de lógica de negócio através de objetos 
 
-> Observação: este módulo é essencial para compreender o poder da orientação a objetos no desenvolvimento de software, facilitando a **manutenção**, **modularidade** e **escala** de aplicações em Java. :contentReference[oaicite:3]{index=3}
+> Observação: este módulo é essencial para compreender o poder da orientação a objetos no desenvolvimento de software, facilitando a **manutenção**, **modularidade** e **escala** de aplicações em Java.
 
 ---
 
